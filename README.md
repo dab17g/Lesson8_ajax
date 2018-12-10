@@ -4,21 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 10, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Dathan Busby)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assigment we learned about how ajax can be used in a website. We filled in the code and used an API to receive data from a different website and place it onto ours.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://dab17g.github.io/Lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. (An API can be used to access data from a different website that you can embed onto your website.)
+2. (We seen how AJAX can be implemented into a website so that information can be updated quickly.)
+3. (We reinforced our ideas about how to use ids in html.)
+4. (We learned about using JSON data in a website and how is can be displayed.)
